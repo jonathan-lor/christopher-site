@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Comet
+* source:	https://sketchfab.com/3d-models/space-comet-116ea44dccdd4217947ca2e5931e4ac9
+* author:	Michinata (https://sketchfab.com/Michinata)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Comet" (https://sketchfab.com/3d-models/space-comet-116ea44dccdd4217947ca2e5931e4ac9) by Michinata (https://sketchfab.com/Michinata) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
